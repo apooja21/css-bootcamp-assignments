@@ -1,25 +1,32 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400&display=swap');
 
 .profile__container {
 	border: 1px solid lightgray;
-	width: 600px;
-	padding: 30px;
+	width: 500px;
+	padding: 30px 50px;
 	margin: 50px auto;
 	border-radius: 15px;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 400;
 }
 .avatar {
 	width: 150px;
-	margin: 50px;
+	margin: 40px;
 	border-radius: 50%;
+}
+p {
+	font-size: 20px;
+	color: gray;
 }
 
 .container {
 	border-top: 1px solid lightgray;
 	padding: 0;
 	width: 100%;
+	margin-bottom: 40px;
 }
 
-.profile{
-    padding: 
+.profile {
+	font-size: 20px;
+	color: blue;
 }
