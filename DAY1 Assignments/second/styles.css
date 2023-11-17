@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+
+.profile__container {
+	border: 1px solid lightgray;
+	width: 600px;
+	padding: 30px;
+	margin: 50px auto;
+	border-radius: 15px;
+	font-family: 'Roboto', sans-serif;
+}
+.avatar {
+	width: 150px;
+	margin: 50px;
+	border-radius: 50%;
+}
+
+.container {
+	border-top: 1px solid lightgray;
+	padding: 0;
+	width: 100%;
+}
+
+.profile{
+    padding: 
+}

@@ -1,0 +1,28 @@
+/* * {
+	box-sizing: border-box;
+} */
+
+.business__box {
+	background-color: #b8b8ff;
+	border: none;
+	width: 500px;
+	padding: 100px 60px;
+	margin: 50px auto;
+	border-radius: 15px;
+	font-family: 'Helvetica', sans-serif;
+	font-weight: bold;
+}
+
+.title {
+	font-size: 50px;
+}
+
+.btn {
+	border: none;
+	background-color: white;
+	padding: 15px 50px;
+	border-radius: 30px;
+	font-size: 18px;
+	font-weight: bold;
+	margin: 20px auto;
+}
