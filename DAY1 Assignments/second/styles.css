@@ -1,17 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400&display=swap');
 
-.profile__container {
-	border: 1px solid lightgray;
-	width: 500px;
+.main {
+	width: 600px;
 	padding: 30px 50px;
 	margin: 50px auto;
-	border-radius: 15px;
 	font-family: 'Poppins', sans-serif;
 	font-weight: 400;
 }
+
+.profile__container {
+	border: 1px solid lightgray;
+	padding: 30px 50px;
+	border-top-right-radius: 15px;
+	border-top-left-radius: 15px;
+}
+
 .avatar {
-	width: 150px;
-	margin: 40px;
+	width: 120px;
+	margin: 30px;
 	border-radius: 50%;
 }
 p {
@@ -20,10 +26,12 @@ p {
 }
 
 .container {
-	border-top: 1px solid lightgray;
-	padding: 0;
-	width: 100%;
-	margin-bottom: 40px;
+	border: 1px solid lightgray;
+	width: 600px;
+	padding: 30px 50px;
+	box-sizing: border-box;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
 }
 
 .profile {
