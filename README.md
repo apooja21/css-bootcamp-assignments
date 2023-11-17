@@ -7,7 +7,7 @@
 
 
 #### Second Output
-![second output](https://github.com/apooja21/css-bootcamp-assignments/assets/60071208/8b7ad172-6219-4be2-baef-ca36a0f67d9b)
+![second output](https://github.com/apooja21/css-bootcamp-assignments/assets/60071208/77efaf4e-18de-4fa2-992a-8a2e06a7843f)
 
 
 #### Third Output
