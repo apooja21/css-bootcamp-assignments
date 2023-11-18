@@ -1,17 +1,20 @@
 # css-bootcamp-assignments
 
-## Day 1 Assignment 
+## Day 2 Assignment 
 
-#### First output
-![first output](https://github.com/apooja21/css-bootcamp-assignments/assets/60071208/ec77fd2a-c27c-4090-87c7-42c159f3a1eb)
-
-
-#### Second Output
-![second output](https://github.com/apooja21/css-bootcamp-assignments/assets/60071208/77efaf4e-18de-4fa2-992a-8a2e06a7843f)
+#### Task 1 output
+![task1 output](https://github.com/apooja21/css-bootcamp-assignments/assets/60071208/136ca7a4-ebdf-4360-b408-933ff52e35e4)
 
 
-#### Third Output
-![third output](https://github.com/apooja21/css-bootcamp-assignments/assets/60071208/4f3bb025-cde7-4283-92f2-eaffb4010e2a)
+#### Task 2 output 
+![task2 output](https://github.com/apooja21/css-bootcamp-assignments/assets/60071208/8046eb6b-6b94-4dca-ba7d-e4c7a6c38e71)
 
-#### Fourth Output
-![fourth output](https://github.com/apooja21/css-bootcamp-assignments/assets/60071208/20363f84-0863-460c-bb4e-f8e263922615)
+
+
+#### Task 3 output 
+![task3 output](https://github.com/apooja21/css-bootcamp-assignments/assets/60071208/ed3eedce-4715-4c3a-9cfd-a8a28152be28)
+
+
+#### Task 4 output 
+![task4 output](https://github.com/apooja21/css-bootcamp-assignments/assets/60071208/8d9ac2d3-f7ad-4b5f-8930-1ae654689d6c)
+
