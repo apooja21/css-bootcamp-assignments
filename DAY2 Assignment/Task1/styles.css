@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&display=swap');
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+}
+
+.card {
+	border: 1px solid lightgray;
+	width: 400px;
+	border-radius: 15px;
+	padding: 10px;
+	margin: 20px auto;
+	position: relative;
+}
+
+.card-img {
+	width: 100%;
+	border-radius: 15px;
+}
+
+.card-header {
+	position: relative;
+}
+
+.promoted-label {
+	position: absolute;
+	background-color: rgba(0, 0, 0, 0.4);
+	color: rgb(255, 255, 255, 0.9);
+	top: 12px;
+	left: 12px;
+	padding: 1px 8px;
+	border: none;
+	border-radius: 5px;
+	font-size: 12px;
+}
+
+.discount-label {
+	position: absolute;
+	background-color: #1b65ec;
+	color: rgb(255, 255, 255);
+	bottom: 20px;
+	left: 0;
+	padding: 1px 10px;
+	border: none;
+	font-size: 16px;
+}
+
+.time-label {
+	position: absolute;
+	background-color: #ebeef0;
+	color: #000;
+	bottom: 20px;
+	right: 10px;
+	padding: 3px 8px;
+	border-radius: 5px;
+	font-size: 14px;
+}
+
+h2 {
+	margin: 10px 0;
+}
+
+.cuisine-label {
+	color: #6c757d;
+	font-size: 20px;
+}
+
+.safety-box {
+	border-top: 1px solid lightgray;
+	width: 100%;
+}
+
+.safety-img {
+	position: absolute;
+	width: 60px;
+	bottom: 25px;
+}
+
+.safety-label {
+	margin-left: 70px;
+	font-size: 14px;
+	color: #6c757d;
+    margin-bottom: 5px;
+}
